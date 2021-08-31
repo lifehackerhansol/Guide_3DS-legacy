@@ -1,32 +1,20 @@
 ---
 layout: splash
-title: "3DS Hacks Guide" #
+title: "3DS Legacy Methods" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />"
+excerpt: "Legacy 3DS hacking methods, <br /> no longer in use by the guide.<br />"
 ---
 
-Thoroughly read all of the introductory pages (including this one!) before proceeding.
+This guide is ***ONLY*** meant to be followed if the [3DS Hacks Guide](https://3ds.hacks.guide) methods do not work! If you are looking to hack your 3DS please follow [3DS Hacks Guide](https://3ds.hacks.guide) instead!
 {: .notice--warning}
 
-The latest system software version is currently 11.15.0-47. If you have installed CFW in the past, it is highly recommended to follow [Checking for CFW](checking-for-cfw) to make sure your custom firmware is up-to-date.
-{: .notice--warning}
+## What is this page for?
 
-## What is custom firmware?
-
-**Custom firmware** ("CFW") is a full software modification to your 3DS, comparable to "administrator access" on a computer. It allows you to do anything that the 3DS is physically capable of doing, rather than being limited by whatever Nintendo allows you to do.
-
-Popular uses for custom firmware include:
-
-* Bypassing the region lock, allowing you to play games from other regions
-* Home menu customization, using community-created [themes and badges](https://themeplaza.art)
-* Modification of games ("ROM hacks") through [LayeredFS](https://github.com/knight-ryu12/godmode9-layeredfs-usage/wiki/Using-Luma3DS'-layeredfs-(Only-version-8.0-and-higher))
-* Save data editing, backup, and restore
-* Emulation of older consoles, as well as native playback of DS and GBA games
-* Installing your physical cartridges for digital use
+This page is a collection of all old methods that can be used if for whatever reason the main guide is unusable. You will most likely be redirected here. If you were not redirected here by the main guide, please follow [3DS Hacks Guide](https://3ds.hacks.guide) instead.
 
 ## What does this guide install?
 
