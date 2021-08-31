@@ -6,7 +6,7 @@ title: "Installing boot9strap (Soundhax)"
 
 ### Required Reading
 
-freakyhax (combined with universal-otherapp) is compatible with versions 1.0.0 through 11.6.0 on the EUR, USA, or JPN region devices.
+freakyhax (combined with universal-otherapp) is compatible with versions 1.0.0 through 11.7.0 on EUR, USA, or JPN region devices.
 
 ### What You Need
 
