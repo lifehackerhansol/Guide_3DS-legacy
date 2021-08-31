@@ -51,5 +51,5 @@ If you already have Pokemon Picross, this process will overwrite your game's sav
 
 ___
 
-### Continue to [Installing boot9strap (Frogtool)](installing-boot9strap-(frogtool))
+### Continue to [Installing boot9strap (Frogtool)](https://3ds.hacks.guide/installing-boot9strap-(frogtool))
 {: .notice--primary}
