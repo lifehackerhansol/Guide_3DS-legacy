@@ -13,4 +13,4 @@ There are many different entrypoints. If any of them apply to you, you can follo
 
 - [Installing boot9strap (MSET)](installing-boot9strap-(mset))
 - [Installing boot9strap (2xrsa)](installing-boot9strap-(2xrsa))
-- [Installing boot9strap (freakyhax)](installing-boot9strap-(freakyhax)]
+- [Installing boot9strap (freakyhax)](installing-boot9strap-(freakyhax))
