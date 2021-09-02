@@ -55,5 +55,5 @@ If you already have Cubic Ninja, this process will overwrite your game's save fi
 
 ___
 
-### Continue to [Installing boot9strap (uloader)](https://3ds.hacks.guide/installing-boot9strap-(uloader))
+### Continue to [Installing boot9strap (uloader)](installing-boot9strap-(uloader))
 {: .notice--primary}
