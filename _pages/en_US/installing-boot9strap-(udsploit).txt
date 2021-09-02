@@ -1,5 +1,5 @@
 ---
-title: "Installing boot9strap (SafeB9SInstaller)"
+title: "Installing boot9strap (udsploit)"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -38,5 +38,5 @@ At this point, your console will boot to Luma3DS by default as long as the SD ca
   + On the next page, you will copy Luma3DS to internal memory so that you can boot without an SD card.
 ___
 
-### Continue to [Finalizing Setup](finalizing-setup)
+### Continue to [Finalizing Setup](https://3ds.hacks.guide/finalizing-setup)
 {: .notice--primary}
