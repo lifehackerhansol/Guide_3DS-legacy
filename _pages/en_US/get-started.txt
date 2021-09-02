@@ -15,9 +15,13 @@ System Version 2.1.0: [Installing boot9strap (2xrsa)](installing-boot9strap-(2xr
 
 System Version 4.X.X or 6.X.X with a DS flashcard: [Installing boot9strap (MSET)](installing-boot9strap-(mset))
 
-System Version 9.0.0 - 11.9.0 with Freakyforms Deluxe game: [Installing boot9strap (freakyhax)](installing-boot9strap-(freakyhax))
+System Version 1.0.0 - 11.15.0 with Freakyforms Deluxe: [Installing boot9strap (freakyhax)](installing-boot9strap-(freakyhax))
 
-System Version 9.0.0 - 11.9.0 with Steel Diver: Sub Wars: [Installing boot9strap (steelhax)](installing-boot9strap-(steelhax))
+___
+
+The following methods are [Seedminer](https://3ds.hacks.guide/seedminer) based methods. You will need to follow that page before proceeding with the following.
+
+Steel Diver: Sub Wars: [Installing boot9strap (steelhax)](installing-boot9strap-(steelhax))
 
 ___
 

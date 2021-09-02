@@ -6,7 +6,7 @@ title: "Installing boot9strap (Steelhax)"
 
 ### Required Reading
 
-Steelhax is a savegame exploit for Steel Diver: Sub Wars. It is compatible with versions 9.0.0 through 11.9.0 on EUR, USA, or JPN region devices.
+Steelhax is a savegame exploit for Steel Diver: Sub Wars. It is compatible with versions 1.0.0 through 11.15.0 on EUR, USA, or JPN region devices.
 
 This method of using Seedminer for further exploitation uses your `movable.sed` file to write a custom save file for Steel Diver: Sub Wars, which can then be used with universal-otherapp to run SafeB9SInstaller.
 
