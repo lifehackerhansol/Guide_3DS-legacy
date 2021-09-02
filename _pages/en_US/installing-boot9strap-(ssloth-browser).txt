@@ -77,7 +77,7 @@ If you have updated your device to your current version using a cartridge, your 
 
 ___
 
-### Continue to [Finalizing Setup](finalizing-setup)
+### Continue to [Finalizing Setup](https://3ds.hacks.guide/finalizing-setup)
 {: .notice--primary}
 
 
