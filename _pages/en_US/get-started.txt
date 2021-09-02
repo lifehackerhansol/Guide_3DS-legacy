@@ -11,11 +11,13 @@ If you have hacked your 3DS in the past, or you purchased your 3DS second-hand, 
 
 There are many different entrypoints. If any of them apply to you, you can follow that method.
 
+System Version 1.0.0 - 11.15.0 with Freakyforms Deluxe: [Installing boot9strap (freakyhax)](installing-boot9strap-(freakyhax))
+
 System Version 2.1.0: [Installing boot9strap (2xrsa)](installing-boot9strap-(2xrsa))
 
 System Version 4.X.X or 6.X.X with a DS flashcard: [Installing boot9strap (MSET)](installing-boot9strap-(mset))
 
-System Version 1.0.0 - 11.15.0 with Freakyforms Deluxe: [Installing boot9strap (freakyhax)](installing-boot9strap-(freakyhax))
+System Version 9.0.0 - 11.9.0 with Cubic Ninja: [Installing boot9strap (Ninjhax2)][installing-boot9strap-(ninjhax2))
 
 ___
 
