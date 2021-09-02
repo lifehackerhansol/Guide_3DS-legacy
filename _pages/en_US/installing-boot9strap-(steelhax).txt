@@ -4,6 +4,9 @@ title: "Installing boot9strap (Steelhax)"
 
 {% include toc title="Table of Contents" %}
 
+This guide is ***ONLY*** meant to be followed if the [3DS Hacks Guide](https://3ds.hacks.guide) methods do not work! If you are looking to hack your 3DS please follow [3DS Hacks Guide](https://3ds.hacks.guide) instead!
+{: .notice--danger}
+
 ### Required Reading
 
 Steelhax is a savegame exploit for Steel Diver: Sub Wars. It is compatible with versions 1.0.0 through 11.15.0 on EUR, USA, or JPN region devices.

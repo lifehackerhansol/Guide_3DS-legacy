@@ -4,6 +4,9 @@ title: "Homebrew Launcher (Steelhax)"
 
 {% include toc title="Table of Contents" %}
 
+This guide is ***ONLY*** meant to be followed if the [3DS Hacks Guide](https://3ds.hacks.guide) methods do not work! If you are looking to hack your 3DS please follow [3DS Hacks Guide](https://3ds.hacks.guide) instead!
+{: .notice--danger}
+
 ### Required Reading
 
 This method of using Seedminer for further exploitation uses your `movable.sed` file to gain access to the Homebrew Launcher using the Steelhax exploit for the purposes of injecting an exploitable DSiWare title into the DS Download Play application. This method requires you to already own (or download) the free "Steel Diver: Sub Wars" game from the eShop.

@@ -4,6 +4,9 @@ title: "Installing boot9strap (Browser)"
 
 {% include toc title="Table of Contents" %}
 
+This guide is ***ONLY*** meant to be followed if the [3DS Hacks Guide](https://3ds.hacks.guide) methods do not work! If you are looking to hack your 3DS please follow [3DS Hacks Guide](https://3ds.hacks.guide) instead!
+{: .notice--danger}
+
 ### Required Reading
 
 new-browserhax-xl/old-browserhax-xl (when combined with universal-otherapp) is compatible with version 11.14.0 on all 3DS devices with Internet Browser access.

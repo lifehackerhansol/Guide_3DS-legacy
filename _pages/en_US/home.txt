@@ -10,7 +10,7 @@ excerpt: "Legacy 3DS hacking methods, <br /> no longer in use by the guide.<br /
 ---
 
 This guide is ***ONLY*** meant to be followed if the [3DS Hacks Guide](https://3ds.hacks.guide) methods do not work! If you are looking to hack your 3DS please follow [3DS Hacks Guide](https://3ds.hacks.guide) instead!
-{: .notice--warning}
+{: .notice--danger}
 
 ## What is this page for?
 
