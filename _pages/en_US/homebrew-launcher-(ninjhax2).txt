@@ -8,7 +8,7 @@ title: "Homebrew Launcher (Ninjhax2)"
 
 Ninjhax2 is an exploit for the game "Cubic Ninja", compatible with System Versions 9.0.0 through 11.9.0 for USA/EUR/JPN region consoles. It is used to launch the Homebrew Launcher.
 
-If your device already has access to the Homebrew Launcher, you can skip to [Installing boot9strap-(uloader)](installing-boot9strap-(uloader)).
+If your device already has access to the Homebrew Launcher, you can skip to [Installing boot9strap (uloader)](installing-boot9strap-(uloader)).
 {: .notice--success}
 
 If you already have Cubic Ninja, this process will overwrite your game's save file!
