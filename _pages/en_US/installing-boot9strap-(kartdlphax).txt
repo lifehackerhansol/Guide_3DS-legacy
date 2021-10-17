@@ -22,7 +22,7 @@ This guide will wirelessly install boot9strap on other 3DSes via Download Play, 
 - On the **target 3DS** (the 3DS that you are trying to mod):
 	- The latest release of [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases/latest)
 	- The latest release of [boot9strap](https://github.com/SciresM/boot9strap/releases/latest)
-	- The latest release of [Luma3DS (no 3GX)](https://github.com/LumaTeam/Luma3DS/releases/tag/latest)
+	- The latest release of [Luma3DS (no 3GX)](https://github.com/LumaTeam/Luma3DS/releases/latest)
 
 ### Instructions
 
