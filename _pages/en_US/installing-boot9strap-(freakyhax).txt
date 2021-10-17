@@ -1,5 +1,5 @@
 ---
-title: "Installing boot9strap (Soundhax)"
+title: "Installing boot9strap (freakyhax)"
 ---
 
 {% include toc title="Table of Contents" %}
