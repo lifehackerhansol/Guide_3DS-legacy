@@ -1,9 +1,0 @@
----
-title: "Página Não Encontrada" #
-layout: single-no-ads
-excerpt: "Página não encontrada. Os teus píxeis estão noutro ecrã" #
-sitemap: false
----
-
-Desculpa, mas a página que tentaste ver não existe.
-{: .notice--info}

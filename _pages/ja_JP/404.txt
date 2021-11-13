@@ -1,9 +1,0 @@
----
-title: "ページが見つかりません" #
-layout: single-no-ads
-excerpt: "ページが見つかりません。 " #
-sitemap: false
----
-
-申し訳ありませんが、表示しようとしたページは存在しません。
-{: .notice--info}
