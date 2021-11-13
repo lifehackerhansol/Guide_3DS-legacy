@@ -30,12 +30,6 @@ Steel Diver: Sub Wars: [Installing boot9strap (steelhax)](installing-boot9strap-
 
 ___
 
-The following methods require a second, hacked console. 
-
-Mario Kart 7: [Installing boot9strap (kartdlphax)](installing-boot9strap-(kartdlphax))
-
-___
-
 These methods are no longer working and are for preservation purposes. Please follow any method above.
 
 - [Installing boot9strap (safecerthax)](installing-boot9strap-(safecerthax))
